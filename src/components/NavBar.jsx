@@ -3,7 +3,7 @@ import "../css/NavBar.css";
 
 function NavBar() {
   return (
-    <div className="navBar">
+    <div className="navbar">
       <div className="navbar-brand">
         <Link to="/">Movie App</Link>
       </div>
